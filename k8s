@@ -1,1 +1,4 @@
-
+if(isLabeLength){
+    		layer.alert('属性名不能超过4个字符~',{icon:5});
+    		return false;
+    	}
